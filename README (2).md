@@ -43,8 +43,6 @@ Cada potenciómetro: pin extremo 1 → **3V3**, pin extremo 2 → **GND**, pin c
 
 > Se usan pines del **ADC1** porque el ADC2 no funciona de forma fiable con WiFi activo. Alimentar los potenciómetros con **3.3 V**, nunca 5 V.
 
-📷 *Coloca aquí la foto del montaje:* `media/montaje.jpg`
-
 ## 4. Arquitectura
 
 ```
